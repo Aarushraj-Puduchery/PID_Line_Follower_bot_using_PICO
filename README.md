@@ -3,6 +3,12 @@ A line follower bot is a type of autonomous robotic vehicle designed to follow a
 
 Line follower bots are popular in robotics competitions and educational settings, as they provide an engaging way to introduce students and enthusiasts to basic robotics principles, sensor technology, and programming. They serve as a fundamental example of closed-loop control systems and can be customized with various features, like obstacle avoidance and speed adjustments, to make them more versatile and adaptable to different scenarios. Line follower bots can be a great starting point for those interested in exploring the world of robotics and automation.
 
+## Bot Pictures
+|  | |
+| --- | --- |
+| ![IMG20231027135525](https://github.com/Aarushraj-Puduchery/PID_Line_Follower_bot_using_PICO/assets/97360295/5c04262d-78d9-4172-8f0d-b44616bd9ad4) | ![IMG20231027135332](https://github.com/Aarushraj-Puduchery/PID_Line_Follower_bot_using_PICO/assets/97360295/83722c8c-ebff-4084-beae-64003ab25b88) |
+| ![IMG_20231027_135621](https://github.com/Aarushraj-Puduchery/PID_Line_Follower_bot_using_PICO/assets/97360295/30b0534c-8fbc-4949-879f-53dd342a5c3a) | ![IMG_20231027_180301](https://github.com/Aarushraj-Puduchery/PID_Line_Follower_bot_using_PICO/assets/97360295/e9020c8f-7a85-4b3b-b446-2115c92f46a5) |
+
 ## Components List
 |  Name  | Cost | Quantity | Total Cost | Link |
 | --- | --- | --- | --- | --- |
@@ -39,21 +45,8 @@ Line follower bots are popular in robotics competitions and educational settings
 > [!IMPORTANT]
 > All the above files must be saved in the PICO.
 ## Chassis Design
-
-
-## Bot Pictures
-|  | |
-| --- | --- |
-| ![IMG20231027135525](https://github.com/Aarushraj-Puduchery/PID_Line_Follower_bot_using_PICO/assets/97360295/5c04262d-78d9-4172-8f0d-b44616bd9ad4) | ![IMG20231027135332](https://github.com/Aarushraj-Puduchery/PID_Line_Follower_bot_using_PICO/assets/97360295/83722c8c-ebff-4084-beae-64003ab25b88) |
-| ![IMG_20231027_135621](https://github.com/Aarushraj-Puduchery/PID_Line_Follower_bot_using_PICO/assets/97360295/30b0534c-8fbc-4949-879f-53dd342a5c3a) | ![IMG_20231027_180301](https://github.com/Aarushraj-Puduchery/PID_Line_Follower_bot_using_PICO/assets/97360295/e9020c8f-7a85-4b3b-b446-2115c92f46a5) |
-
-
-
+> [!NOTE]
+> Need To Update.
 
 ### References
 https://www.instructables.com/Line-Follower-Robot-PID-Control-Android-Setup/
-
-
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
-
